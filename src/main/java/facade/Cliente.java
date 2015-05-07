@@ -22,5 +22,6 @@ public class Cliente {
         fachada.renderizarImagem("imagem.png");
         fachada.reproduzirAudio("teste.mp3");
         fachada.lerInput();
+        System.out.println("teste");
     }
 }
